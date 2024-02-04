@@ -1,0 +1,18 @@
+{
+  "number": 15,
+  "square": 75,
+  "owner": "Aleksandr",
+  "rooms": [
+    "lounge",
+    "kitchen",
+    "bathroom",
+    "bedroom"],
+  "address": {
+    "city": "Moscow",
+    "index": 101000,
+    "street": "Lenina",
+    "house": 42
+  }
+
+
+}

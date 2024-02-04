@@ -1,0 +1,12 @@
+{
+  "name": "Sasha",
+  "age": 25,
+  "hobby": [
+    "music",
+    "sport"
+  ],
+  "passport": {
+    "issuer": "MVD",
+    "number": 234234
+  }
+}
